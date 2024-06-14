@@ -1,1 +1,1 @@
-# Javascript-Project-Practice-Pig-Game
+# Practice-3-Pig-Game
